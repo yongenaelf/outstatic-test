@@ -1,0 +1,13 @@
+{
+  "title": "docs",
+  "type": "object",
+  "properties": {
+    "path": {
+      "required": true,
+      "description": "path",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "path"
+    }
+  }
+}
