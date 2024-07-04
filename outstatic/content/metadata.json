@@ -1,6 +1,6 @@
 {
-  "commit": "dd1e48454ba96bf72f0c684ebb9b23c0093d4d64",
-  "generated": "2024-07-04T16:43:40.704Z",
+  "commit": "6dddf3b6cd87196896237b1d55e54c9b7c8cff11",
+  "generated": "2024-07-04T16:43:46.535Z",
   "metadata": [
     {
       "__outstatic": {
@@ -139,8 +139,8 @@
     },
     {
       "__outstatic": {
-        "commit": "dd1e48454ba96bf72f0c684ebb9b23c0093d4d64",
-        "hash": "3819148368",
+        "commit": "6dddf3b6cd87196896237b1d55e54c9b7c8cff11",
+        "hash": "1100325714",
         "path": "outstatic/content/docs/hello-world.md"
       },
       "author": {
@@ -153,7 +153,7 @@
       "path": "getting-started/hello-world",
       "publishedAt": "2024-07-04T17:31:04.316Z",
       "slug": "hello-world",
-      "status": "draft",
+      "status": "published",
       "title": "hello world"
     }
   ]
