@@ -1,6 +1,6 @@
 {
-  "commit": "1f50a2146d729824a49bdd75c494a64f7cec050f",
-  "generated": "2024-07-04T16:39:08.425Z",
+  "commit": "4c3c2fcdbf1f037a6018bfc06532c5576c7f7211",
+  "generated": "Thu, 04 Jul 2024 16:41:23 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -136,24 +136,6 @@
       "slug": "nothing-wrong",
       "status": "published",
       "title": "Nothing is wrong. Everything is perfect"
-    },
-    {
-      "__outstatic": {
-        "commit": "1f50a2146d729824a49bdd75c494a64f7cec050f",
-        "hash": "1157904071",
-        "path": "outstatic/content/docs/test.md"
-      },
-      "author": {
-        "name": "",
-        "picture": "https://avatars.githubusercontent.com/u/132553186?v=4"
-      },
-      "collection": "docs",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-07-04T17:25:39.842Z",
-      "slug": "test",
-      "status": "published",
-      "title": "test"
     }
   ]
 }
