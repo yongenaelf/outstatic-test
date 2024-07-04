@@ -1,6 +1,6 @@
 {
-  "commit": "4c3c2fcdbf1f037a6018bfc06532c5576c7f7211",
-  "generated": "Thu, 04 Jul 2024 16:41:27 GMT",
+  "commit": "dd1e48454ba96bf72f0c684ebb9b23c0093d4d64",
+  "generated": "2024-07-04T16:43:40.704Z",
   "metadata": [
     {
       "__outstatic": {
@@ -136,6 +136,25 @@
       "slug": "nothing-wrong",
       "status": "published",
       "title": "Nothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "dd1e48454ba96bf72f0c684ebb9b23c0093d4d64",
+        "hash": "3819148368",
+        "path": "outstatic/content/docs/hello-world.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/132553186?v=4"
+      },
+      "collection": "docs",
+      "coverImage": "",
+      "description": "",
+      "path": "getting-started/hello-world",
+      "publishedAt": "2024-07-04T17:31:04.316Z",
+      "slug": "hello-world",
+      "status": "draft",
+      "title": "hello world"
     }
   ]
 }
